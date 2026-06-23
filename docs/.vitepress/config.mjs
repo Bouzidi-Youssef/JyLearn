@@ -73,14 +73,6 @@ export default withMermaid(defineConfig({
 
   mermaid: {
     theme: 'dark',
-    themeVariables: {
-      primaryColor: '#3b82f6',
-      primaryBorderColor: '#2563eb',
-      lineColor: '#64748b',
-      secondaryColor: '#1e293b',
-      tertiaryColor: '#0f172a',
-      fontSize: '14px',
-    },
   },
 }))
 
