@@ -19,12 +19,12 @@
   ],
   "license": "GPL-3.0-only",
   "author": "Bouzidi Youssef",
+  "dependencies": {
+    "jygame": "git+https://github.com/Bouzidi-Youssef/Jygame.git#d12ca64d4d787d639e4ae8a6c58f17a52dc5a7ce"
+  },
   "devDependencies": {
     "mermaid": "^11.15.0",
     "vitepress": "^1.6.4",
     "vitepress-plugin-mermaid": "^2.0.17"
-  },
-  "dependencies": {
-    "jygame": "^0.7.5"
   }
 }

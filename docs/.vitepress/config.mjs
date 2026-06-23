@@ -67,7 +67,6 @@ export default withMermaid(defineConfig({
     resolve: {
       alias: {
         '@components': '/docs/.vitepress/components',
-        'jygame': '/home/youssef/Work/Programming/JavaScript/Games/jygame',
       },
     },
   },
