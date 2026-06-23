@@ -1,0 +1,30 @@
+{
+  "name": "jygame-learning-architecture",
+  "version": "0.1.0",
+  "description": "An educational learning resource centered around the jygame engine architecture",
+  "type": "module",
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "preview": "vitepress preview docs"
+  },
+  "keywords": [
+    "game-engine",
+    "particle-system",
+    "webgpu",
+    "wasm",
+    "simd",
+    "education",
+    "tutorial"
+  ],
+  "license": "GPL-3.0-only",
+  "author": "Bouzidi Youssef",
+  "devDependencies": {
+    "mermaid": "^11.15.0",
+    "vitepress": "^1.6.4",
+    "vitepress-plugin-mermaid": "^2.0.17"
+  },
+  "dependencies": {
+    "jygame": "^0.7.5"
+  }
+}
